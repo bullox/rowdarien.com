@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Darien</title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://dariensolo.com/index.xml/</link>
+    <language>en-gb</language>
+    <author>Elsa Hammond</author>
+    <copyright>2014 Elsa Hammond</copyright>
+    <updated>Wed, 15 Oct 2014 13:37:06 BST</updated>
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://dariensolo.com/2014/10/first/</link>
+      <pubDate>Tue, 14 Oct 2014 22:23:36 BST</pubDate>
+      <author>Elsa Hammond</author>
+      <guid>http://dariensolo.com/2014/10/first/</guid>
+      <description>&lt;p&gt;Hooray - new site. Playing with &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, super-speedy static site generator. Will work out what&amp;rsquo;s going here soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>

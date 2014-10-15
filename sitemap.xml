@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://dariensolo.com/</loc>
+    <lastmod>2014-10-15T13:37:06+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dariensolo.com/index.html</loc>
+    <lastmod>2014-10-15T13:37:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dariensolo.com/contact/</loc>
+    <lastmod>2014-10-14T21:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dariensolo.com/2014/10/first/</loc>
+    <lastmod>2014-10-14T22:23:36+01:00</lastmod>
+  </url>
+  
+</urlset>
