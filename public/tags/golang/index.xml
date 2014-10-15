@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Darien</title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://dariensolo.com/tags/golang/index.xml/</link>
+    <language>en-gb</language>
+    <author>Darien Charters</author>
+    <copyright>2014 Darien Charters</copyright>
+    <updated>Wed, 15 Oct 2014 17:22:21 BST</updated>
+    
+    
+    
+  </channel>
+</rss>
