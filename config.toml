@@ -2,10 +2,10 @@ baseurl = "http://dariensolo.com/"
 languageCode = "en-gb"
 title = "Darien"
 theme = "hyde"
-copyright = "Elsa Hammond"
+copyright = "Darien Charters"
 
 [Author]
-	name = "Elsa Hammond"
+	name = "Darien Charters"
 
 [Permalinks]
 	blog = "/:year/:month/:filename/"
