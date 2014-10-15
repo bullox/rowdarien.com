@@ -13,9 +13,9 @@
   <title> Series-Desc  &middot; Darien </title>
 
   
-  <link rel="stylesheet" href="http://dariensolo.com/css/poole.css">
-  <link rel="stylesheet" href="http://dariensolo.com/css/syntax.css">
-  <link rel="stylesheet" href="http://dariensolo.com/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -23,7 +23,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   
-  <link href="http://dariensolo.com/series-desc/index.xml/" rel="alternate" type="application/rss+xml" title="Darien" />
+  <link href="http://localhost:1313/series-desc/index.xml/" rel="alternate" type="application/rss+xml" title="Darien" />
 
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
@@ -45,7 +45,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1 class="brand"><a href="http://dariensolo.com">Darien</a></h1>
+      <h1 class="brand"><a href="http://localhost:1313">Darien</a></h1>
       <p class="lead">
        solo ocean rowing boat 
       </p>
@@ -54,11 +54,11 @@
 
 
     <ul class="sidebar-nav">
-      <li><a href="http://dariensolo.com/blog">Posts</a></li>
+      <li><a href="http://localhost:1313/blog">Posts</a></li>
       
-        <li><a href="http://dariensolo.com/kit/">kit </a></li>
+        <li><a href="http://localhost:1313/kit/">Kit list </a></li>
       
-        <li><a href="http://dariensolo.com/contact/">Contact </a></li>
+        <li><a href="http://localhost:1313/contact/">Contact </a></li>
       
       <br/>
     </ul>
@@ -90,5 +90,8 @@
     
    </ul>
   </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
