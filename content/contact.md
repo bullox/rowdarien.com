@@ -6,4 +6,4 @@ title = "Contact"
 	weight = 1
 +++
 
-Please get in touch via email: [mailto:hello@dariensolo.com](hello@dariensolo.com).
+Please get in touch via email: [hello@dariensolo.com](mailto:hello@dariensolo.com).
