@@ -4,4 +4,6 @@ title = "Hello"
 url = "/index.html"
 +++
 
-This is the home page for Darien, a solo ocean rowing boat for charter.
+![Darien at sea](https://farm3.staticflickr.com/2938/14149971151_53deef30f3.jpg "Image by Gerry Gill")
+
+Darien is a solo ocean rowing boat for charter. More info coming soon.
