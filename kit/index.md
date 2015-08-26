@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kit
-nav: 5
+nav: 3
 ---
 
 What you get when you charter Darien:

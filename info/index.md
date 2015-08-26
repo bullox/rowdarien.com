@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Info
-nav: 5
+nav: 2
 ---
 
 # About Darien
