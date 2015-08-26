@@ -6,3 +6,4 @@ title = "Voyages"
 +++
 
 * 2014: [Elsa Hammond](http://elsahammond.com) - Great Pacific Race - Monterey-Hawaii (weather diversion to San Diego)
+* Where will you take her next?
